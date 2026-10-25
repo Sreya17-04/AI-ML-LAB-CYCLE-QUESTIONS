@@ -65,23 +65,6 @@ Implemented logistic regression for a classification task, focusing on dataset p
 
 Explored artificial neural networks for learning patterns in data and clustering techniques for grouping similar data points.
 
-## How to Run the Experiments
-
-1. Clone or download this repository.
-2. Open the required `.ipynb` notebook in Google Colab or Jupyter Notebook.
-3. Upload the required dataset, if applicable, or execute the cells that generate synthetic data.
-4. Run the notebook cells sequentially to view the implementation and results.
-
-## Learning Outcomes
-
-- Understanding regression and classification techniques.
-- Implementing informed and uninformed search algorithms.
-- Learning graph traversal and pathfinding.
-- Understanding greedy algorithms and optimization.
-- Implementing decision trees and ensemble learning.
-- Exploring Support Vector Machines and logistic regression.
-- Understanding artificial neural networks and clustering.
-- Learning dataset preprocessing, model training, prediction, and evaluation.
 
 ## Author
 
