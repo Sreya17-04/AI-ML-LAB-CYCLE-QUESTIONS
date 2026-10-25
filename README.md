@@ -12,8 +12,9 @@
 | 6 | Breadth-First Search (BFS) and Depth-First Search (DFS) Implementation | 19/08/2026 |
 | 7 | Decision Tree Implementation | 16/09/2026 |
 | 8 | Random Forest and Support Vector Machine (SVM) Implementation | 23/09/2026 |
-| 9 | Logistic Regression | 30/09/2026 |
-| 10 | Artificial Neural Networks (ANN) and Clustering | 14/10/2026 |
+| 9 | Boosting Ensemble Method | 23/09/2026 |
+| 10 | Logistic Regression | 30/09/2026 |
+| 11 | Artificial Neural Networks (ANN) and Clustering | 14/10/2026 |
 
 ## Technologies Used
 
